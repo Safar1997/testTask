@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.ant-tree-list-holder-inner{
+  padding-left: 40px;
+  margin-top: 40px;
+}
+.ant-result{
+  height: 200px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
